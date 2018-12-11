@@ -19,7 +19,7 @@ Discord bot that shows your members and bot in a beautiful way **[ AND IT'S FREE
 * **Easy setup** The bot asks you some questions and you only have to answer with a command
 * The bot is **100% safe to use** and an original idea
 * After setup you don't have to do anything anymore, just sit down and relax
-* Exapted bot on [**discordbots.org**](https://discordbots.org/bot/458276816071950337) and support for donations
+* Accepted on [**discordbots.org**](https://discordbots.org/bot/458276816071950337) and support for donations
 
 
 And there is still more coming...
