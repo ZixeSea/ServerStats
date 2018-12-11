@@ -46,7 +46,7 @@ This function is based on the .setName function in discord.js [Click here for th
 ## Saved data
 
 Of courese the bot needs the save some data to function, and a simple JSON file is used to do this.
-The bot is my with the **AVG law** in mind, that means that I only save data if i need to and won't save personal data
+The bot is my with the [**AVG law**](https://www.amsadvocaten.com/blog/intellectual-property-law-in-the-netherlands/are-you-ready-for-the-new-general-data-protection-regulation-avg/) in mind, that means that I only save data if i need to and won't save personal data
 Also if you delete my bot all saved data from your server will be deleted
 
 ![Image](https://cdn.discordapp.com/attachments/465201693538254848/522084620360089605/data.PNG)
