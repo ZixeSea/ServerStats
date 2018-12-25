@@ -43,8 +43,8 @@ After all the steps above you done and the bot will automaticly change the numbe
 * Step 1: How amazing! you can also change the location of all the channels by click and holding the stats(serverstatsbot) section.
 
 # You can also change the display text use this:
-To change the "All Members" text type: stats/set-all [text]
-To change the "Members" text type: stats/set-member [text]
-To change the "Bots" text type: stats/set-bot [text]
-
 **It won't work if you change it the normal way (if someone joins it will change back).**
+
+* To change the "All Members" text type: stats/set-all [text]
+* To change the "Members" text type: stats/set-member [text]
+* To change the "Bots" text type: stats/set-bot [text]
