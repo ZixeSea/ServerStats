@@ -28,7 +28,7 @@ And there is still more coming...
 ## Importent
 
 * **ServerStats requires admin permissions**, If you don't give the bot admin permissions then he won't work 
-* The bot is **100% safe** and is already on more then **100 different** servers
+* The bot is **100% safe** and is already on more then **200 different** servers
 * It needs to have admin permissions to change the channel names
 * I tested every other permission but it won't work
 
