@@ -1,5 +1,5 @@
 # How to setup ServerStats
-Here is a step by step instructions, if you need more help after doing the steps you can add me on Discord **AnimeGlitch#1234** or join [**my discord server**](http://discord.animeglitch.net/).
+Here is a step by step instructions, if you need more help after doing the steps you can add me on Discord **ZixeSea#1234** or join [**my discord server**](http://discord.animeglitch.net/).
 Make sure that the bot has **administrator permissions**, but if you didn't change the invite link or settings on that page I will all be good.
 
 # Step 1 (Adding the bot)
