@@ -1,6 +1,8 @@
-# How to setup ServerStats
+# How to setup ServerStats V3
 Here is a step by step instructions, if you need more help after doing the steps you can add me on Discord **ZixeSea#1234** or join [**my discord server**](https://discordapp.com/invite/bZt8WkS).
 Make sure that the bot has **administrator permissions**, but if you didn't change the invite link or settings on that page I will all be good.
+
+**[You can also watch a instruction video here.](https://vimeo.com/316592316/b7bd1ea09b)**
 
 # Step 1 (Adding the bot)
 The first thing you have to do is add the bot to your server, use [**this link**](https://discordapp.com/oauth2/authorize?client_id=458276816071950337&scope=bot&permissions=8/) to add the bot. (You need to be login with Discord on your browser).
@@ -15,36 +17,14 @@ The first thing you have to do is add the bot to your server, use [**this link**
 # Step 2 (Start the setup)
 After you have added the bot you need to set it up.
 
-![image](https://cdn.discordapp.com/attachments/527152500139229204/527156043223007233/start_setup_step.PNG)
+![image](https://cdn.discordapp.com/attachments/527152500139229204/544607298266464286/Naamloos.png)
 
-* Step 1: Type in the chat: stats/start-setup (after the command you will get a message).
-
-# Step 3 (Auto create channels)
-My bot shows the member count in channel names, so the bot needs to create some channels.
-**The channels will normally be placed at the bottom.**
-
-![image](https://cdn.discordapp.com/attachments/527152500139229204/527158305571733514/create-channel_step.PNG)
-
-* Step 1: Type in the chat: stats/create-channel (after the command you will get a message).
-* Step 2: Check if the channels are created (If the channels don't display numbers like on the images above go to step 4).
-
-# Step 4 (No number in the channels)
-Only do this part if you think the numbers are incorrect or aren't displaying.
-
-![image](https://cdn.discordapp.com/attachments/527152500139229204/527159436750487552/refresh_step.PNG)
-
-* Step 1: Type in the chat: stats/refresh (after the command you will get a message).
-
-# Step 5 (Setup done)
-After all the steps above your done and the bot will automatically change the numbers.
-
-![image](https://cdn.discordapp.com/attachments/527152500139229204/527160221387456512/setup_done_step.PNG)
-
-* Step 1: How amazing! you can also change the location of all the channels by click and holding the stats(serverstatsbot) section.
+* Step 1: Type in the chat: s/setup (after the command you will get a message if there is a error of if the bot is done).
 
 # You can also change the display text use this:
-**It won't work if you change it the normal way (if someone joins it will change back).**
-
-* To change the "All Members" text type: stats/set-all [text]
-* To change the "Members" text type: stats/set-member [text]
-* To change the "Bots" text type: stats/set-bot [text]
+**You can just rename the channels the normal way (keep in mind that the number will be updated).**
+So if you change your channel name to:
+* This are my members 0 = This are my members 5
+* I have 100 bro = I have 5 bro
+Don't set more than one number because the result will be something like this (4 of my 30 friends = 5 of my 5 friends)
+**(The server has 5 members in this exemple)**
