@@ -1,7 +1,7 @@
 # ServerStats V3
 Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FREE! ]**
 
-[CLICK HERE TO ADD THE BOT TO YOUR SERVER](https://discordapp.com/oauth2/authorize?client_id=458276816071950337&scope=bot&permissions=8)
+[CLICK HERE TO ADD THE BOT TO YOUR SERVER](https://discordapp.com/api/oauth2/authorize?client_id=458276816071950337&permissions=1068048&scope=bot)
 
 [CLICK HERE TO WATCH THE INSTRUCTIONS VIDEO](https://vimeo.com/316592316/b7bd1ea09b)
 
@@ -25,8 +25,8 @@ Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FRE
 
 ## Importent
 
-* **ServerStats requires admin permissions**, If you don't give the bot admin permissions he won't work.
-* The bot is **100% safe and free** and he is already on more then **250 different** servers.
+* **ServerStats requires some permissions**, If you don't give the bot permissions he won't work.
+* The bot is **100% safe and free** and he is already on more then **350 different** servers.
 
 ## How is it build?
 
