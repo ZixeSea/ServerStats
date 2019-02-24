@@ -1,4 +1,4 @@
-# ServerStats V3
+# ServerStats V3.0.2
 Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FREE! ]**
 
 [CLICK HERE TO ADD THE BOT TO YOUR SERVER](https://discordapp.com/api/oauth2/authorize?client_id=458276816071950337&permissions=1068048&scope=bot)
@@ -30,7 +30,7 @@ Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FRE
 
 ## How is it build?
 
-ServerStats V3 is built on node.js using Visual Studio Code. I'm using the NPM module [Discord.js](https://discord.js.org/#/).
+ServerStats V3.0.2 is built on node.js using Visual Studio Code. I'm using the NPM module [Discord.js](https://discord.js.org/#/).
 
 ## Main function.
 
