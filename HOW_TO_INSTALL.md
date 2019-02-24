@@ -1,11 +1,11 @@
-# How to setup ServerStats V3
+# How to setup ServerStats V3.0.2
 Here is a step by step instructions, if you need more help after doing the steps you can add me on Discord **ZixeSea#1234** or join [**my discord server**](https://discordapp.com/invite/bZt8WkS).
 Make sure that the bot has **administrator permissions**, but if you didn't change the invite link or settings on that page I will all be good.
 
 **[You can also watch a instruction video here.](https://vimeo.com/316592316/b7bd1ea09b)**
 
 # Step 1 (Adding the bot)
-The first thing you have to do is add the bot to your server, use [**this link**](https://discordapp.com/oauth2/authorize?client_id=458276816071950337&scope=bot&permissions=8/) to add the bot. (You need to be login with Discord on your browser).
+The first thing you have to do is add the bot to your server, use [**this link**](https://discordapp.com/api/oauth2/authorize?client_id=458276816071950337&permissions=1068048&scope=bot) to add the bot. (You need to be login with Discord on your browser).
 
 ![image](https://cdn.discordapp.com/attachments/527152500139229204/527152574608965642/invite_steps.png)
 
