@@ -19,7 +19,7 @@ After you have added the bot you need to set it up.
 
 ![image](https://cdn.discordapp.com/attachments/527152500139229204/544607298266464286/Naamloos.png)
 
-* Step 1: Type in the chat: s/setup (after the command you will get a message if there is a error of if the bot is done).
+* Step 1: Type in the chat: s/setup (after the command you will get a message if there is a error or if the bot is done).
 
 # You can also change the display text use this:
 **You can just rename the channels the normal way (keep in mind that the number will be updated).**
