@@ -1,4 +1,4 @@
-# ServerStats V3.0.2
+# ServerStats V3.1.0
 Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FREE! ]**
 
 [CLICK HERE TO ADD THE BOT TO YOUR SERVER](https://discordapp.com/api/oauth2/authorize?client_id=458276816071950337&permissions=1068048&scope=bot)
