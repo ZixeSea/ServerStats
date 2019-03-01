@@ -30,7 +30,7 @@ Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FRE
 
 ## How is it build?
 
-ServerStats V3.0.2 is built on node.js using Visual Studio Code. I'm using the NPM module [Discord.js](https://discord.js.org/#/).
+ServerStats is built on node.js using Visual Studio Code. I'm using the NPM module [Discord.js](https://discord.js.org/#/).
 
 ## Main function.
 
