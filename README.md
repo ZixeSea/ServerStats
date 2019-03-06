@@ -1,4 +1,4 @@
-# ServerStats V3.1.0
+# ServerStats V3.2.0
 Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FREE! ]**
 
 [CLICK HERE TO ADD THE BOT TO YOUR SERVER](https://discordapp.com/api/oauth2/authorize?client_id=458276816071950337&permissions=1068048&scope=bot)
@@ -16,17 +16,17 @@ Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FRE
 
 * Fancy member counter!
 * Easy to setup
-* Automatically update the counters
+* Automatically updating counters
 * Custom text
      * You can change the display text from **All members, members and bots**
-* **24/7** Uptime and lite
+* **24/7** Uptime
 * Firestore database
 * Accepted on [**discordbots.org**](https://discordbots.org/bot/458276816071950337)
 
 ## Importent
 
 * **ServerStats requires some permissions**, If you don't give the bot permissions he won't work.
-* The bot is **100% safe and free** and he is already on more then **350 different** servers.
+* The bot is **100% safe and free** and he is already on more then **550 different** servers.
 
 ## How is it build?
 
