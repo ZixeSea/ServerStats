@@ -49,9 +49,15 @@ Also if you delete my bot all saved data from your server will be deleted.
 <a href="https://discordbots.org/bot/458276816071950337" >
   <img src="https://discordbots.org/api/widget/458276816071950337.svg"
        	width="380" 
-		height="140" 
+	height="140" 
        alt="ServerStats stats on DiscordBots.org">
 </a>
+<a href="https://bots.ondiscord.xyz/bots/458276816071950337"><img src="https://bots.ondiscord.xyz/bots/458276816071950337/embed"
+	width="380" 
+	height="140" 
+	alt="ServerStats stats on bots.ondiscord.xyz">
+</a>
+<br>
 <a href="https://discordbotlist.com/bots/458276816071950337">
 	<img 
 		width="380" 
