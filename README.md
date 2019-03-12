@@ -1,4 +1,4 @@
-# ServerStats V3.3.0
+# ServerStats V3.3.1
 Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FREE! ]**
 
 [CLICK HERE TO ADD THE BOT TO YOUR SERVER](https://discordapp.com/api/oauth2/authorize?client_id=458276816071950337&permissions=1068048&scope=bot)
@@ -44,7 +44,6 @@ This function is based on the .setName function in discord.js [Click here for th
 
 Of courese the bot needs the save some data and the only data the bot needs is 3 channel IDs.
 The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intellectual-property-law-in-the-netherlands/are-you-ready-for-the-new-general-data-protection-regulation-avg/) in mind, that means that I only save data if i need to and won't save personal data.
-Also if you delete my bot all saved data from your server will be deleted.
 
 ## Discord bot list sites
 <a href="https://discordbots.org/bot/458276816071950337" >
