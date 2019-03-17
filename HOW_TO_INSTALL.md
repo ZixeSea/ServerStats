@@ -30,6 +30,7 @@ So if you change your channel name to:
 - This are my members 0 = This are my members 5
 - I have 100 bro = I have 5 bro
 Don't set more than one number because the result will be something like this (4 of my 30 friends = 5 of my 5 friends)
+
 **(The server has 5 members in this exemple)**
 
 **Disable a counter**
