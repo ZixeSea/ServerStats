@@ -1,5 +1,5 @@
 # How to setup ServerStats V3
-Here is a step by step instructions, if you need more help after doing the steps you can add me on Discord **ZixeSea#1234** or join [**my discord server**](https://discordapp.com/invite/bZt8WkS).
+Here is a step by step instructions, if you need more help after doing the steps you can join [**my discord server**](https://discordapp.com/invite/bZt8WkS).
 Make sure that the bot has **administrator permissions**, but if you didn't change the invite link or settings on that page I will all be good.
 
 **[You can also watch a instruction video here.](https://vimeo.com/316592316/b7bd1ea09b)**
