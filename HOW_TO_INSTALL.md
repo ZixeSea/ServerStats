@@ -24,6 +24,7 @@ After you have added the bot you need to set it up or wait until someone joins o
 
 # How to customize the counters:
 **Custom the counter text**
+
 You can just rename the channels the normal way (keep in mind that the number will be updated).
 So if you change your channel name to:
 - This are my members 0 = This are my members 5
@@ -32,5 +33,6 @@ Don't set more than one number because the result will be something like this (4
 **(The server has 5 members in this exemple)**
 
 **Disable a counter**
+
 You can also disable a counter if you don't want one of them, just delete the channel you don't want.
 You can always get the channel back by using s/remake this will reset all the channel.
