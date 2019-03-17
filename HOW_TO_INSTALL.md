@@ -22,8 +22,8 @@ After you have added the bot you need to set it up or wait until someone joins o
 * Auto: If you don't run the setup and the bot has the right permissions then the bot will automatically run the setup of someone joins or leaves.
 * Step 1: Type in the chat: s/setup (after the command you will get a message if there is a error or if the bot is done).
 
-# How to customize the counters:
-**Custom the counter text**
+# How to customize the counters
+**Custom the counter text:**
 
 You can just rename the channels the normal way (keep in mind that the number will be updated).
 So if you change your channel name to:
@@ -33,7 +33,7 @@ Don't set more than one number because the result will be something like this (4
 
 **(The server has 5 members in this exemple)**
 
-**Disable a counter**
+**Disable a counter:**
 
 You can also disable a counter if you don't want one of them, just delete the channel you don't want.
 You can always get the channel back by using s/remake this will reset all the channel.
