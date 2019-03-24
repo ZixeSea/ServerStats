@@ -1,6 +1,6 @@
 # How to setup ServerStats V3
 Here is a step by step instructions, if you need more help after doing the steps you can join [**my discord server**](https://discordapp.com/invite/bZt8WkS).
-Make sure that the bot has **administrator permissions**, but if you didn't change the invite link or settings on that page I will all be good.
+Make sure that the bot has **Manage Channels, Read Text Channels & See Voice Channels and Connect permissions**, but if you didn't change the invite link or settings on that page I will all be good.
 
 **[You can also watch a instruction video here.](https://vimeo.com/316592316/b7bd1ea09b)**
 
@@ -15,11 +15,10 @@ The first thing you have to do is add the bot to your server, use [**this link**
 * Step 4: Do the "I'm not a robot" thing.
 
 # Step 2 (Start the setup)
-After you have added the bot you need to set it up or wait until someone joins or leaves.
+After you have added the bot you need to set it up.
 
 ![image](https://cdn.discordapp.com/attachments/527152500139229204/544607298266464286/Naamloos.png)
 
-* Auto: If you don't run the setup and the bot has the right permissions then the bot will automatically run the setup of someone joins or leaves.
 * Step 1: Type in the chat: **s/setup** (after the command you will get a message if there is a error or if the bot is done).
 
 # How to customize the counters
