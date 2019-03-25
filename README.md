@@ -46,28 +46,4 @@ Of courese the bot needs the save some data and the only data the bot needs is 3
 The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intellectual-property-law-in-the-netherlands/are-you-ready-for-the-new-general-data-protection-regulation-avg/) in mind, that means that I only save data if i need to and won't save personal data.
 
 ## Discord bot list sites
-<a href="https://discordbots.org/bot/458276816071950337" >
-  <img src="https://discordbots.org/api/widget/458276816071950337.svg"
-       	width="440" 
-	height="150" 
-       	alt="ServerStats bot on discordbots.org">
-</a>
-<a href="https://bots.ondiscord.xyz/bots/458276816071950337">
-   <img src="https://bots.ondiscord.xyz/bots/458276816071950337/embed"
-	width="420" 
-	height="150" 
-	alt="ServerStats bot on bots.ondiscord.xyz">
-</a>
-<br>
-<a href="https://divinediscordbots.com/bots/458276816071950337">
-  <img src="https://divinediscordbots.com/api/widget/458276816071950337.svg"
-       width="440" 
-       height="150"
-       alt="ServerStats stats on divinediscordbots.com">
-</a>
-<a href="https://discordbotlist.com/bots/458276816071950337">
-    <img src="https://discordbotlist.com/bots/458276816071950337/widget"
-	width="400" 
-	height="150" 
-	alt="ServerStats bot on discordbotlist.org">
-</a>
+
