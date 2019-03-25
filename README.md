@@ -50,7 +50,7 @@ The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intelle
   <img src="https://discordbots.org/api/widget/458276816071950337.svg"
        	width="440" 
 	height="150" 
-       	alt="ServerStats bot on discorddots.org">
+       	alt="ServerStats bot on discordbots.org">
 </a>
 <a href="https://bots.ondiscord.xyz/bots/458276816071950337">
    <img src="https://bots.ondiscord.xyz/bots/458276816071950337/embed"
@@ -66,8 +66,8 @@ The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intelle
        alt="ServerStats stats on divinediscordbots.com">
 </a>
 <a href="https://discordbotlist.com/bots/458276816071950337">
-	<img src="https://discordbotlist.com/bots/458276816071950337/widget"
-		width="400" 
-		height="150" 
-		alt="ServerStats bot on discordbotlist.org">
+    <img src="https://discordbotlist.com/bots/458276816071950337/widget"
+	width="400" 
+	height="150" 
+	alt="ServerStats bot on discordbotlist.org">
 </a>
