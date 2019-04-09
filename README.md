@@ -22,16 +22,16 @@ Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FRE
 * Can show server and member info
 * **24/7** Uptime
 * Firestore database
-* Accepted on [**discordbots.org**](https://discordbots.org/bot/458276816071950337)
 
 ## Importent
 
 * **ServerStats requires some permissions**, If you don't give the bot permissions he won't work.
-* The bot is **100% safe and free** and he is already on more then **950 different** servers.
+* The bot is **100% safe and free** and he is already on more then **1750 different** servers.
+* This bot is accepted on 8 bot list websites: [**discordbots.org**](https://discordbots.org/bot/458276816071950337), [**bots.ondiscord.xyz**](https://bots.ondiscord.xyz/bots/458276816071950337), [**botlist.space**](https://botlist.space/bot/458276816071950337), [**botsfordiscord.com**](https://botsfordiscord.com/bot/458276816071950337), [**discord.boats**](https://discord.boats/bot/458276816071950337), [**discordbotlist.com**](https://discordbotlist.com/bots/458276816071950337), [**discordsbestbots.xyz**](https://discordsbestbots.xyz/bots/458276816071950337), [**divinediscordbots.com**](https://divinediscordbots.com/bot/458276816071950337)
 
 ## How is it build?
 
-ServerStats is built on node.js using Visual Studio Code. I'm using the NPM module [Discord.js](https://discord.js.org/#/).
+ServerStats is built on node.js using Visual Studio Code. I'm using the NPM module [Discord.js](https://discord.js.org/#/), the bot is also using some other module like: axios, console-stamp, enmap and firebase-admin.
 
 ## Main function
 
