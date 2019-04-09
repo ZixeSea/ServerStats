@@ -58,16 +58,44 @@ The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intelle
 	height="150" 
 	alt="ServerStats bot on bots.ondiscord.xyz">
 </a>
+
 <br>
+
+<a href="https://botsfordiscord.com/bots/458276816071950337" >
+   <img src="https://botsfordiscord.com/api/bot/458276816071950337/widget"
+	width="440" 
+	height="150" 
+	alt="ServerStats bot on botsfordiscord.com">
+</a>
+<a href="https://discord.boats/bot/458276816071950337" >
+   <img src="https://discord.boats/api/widget/458276816071950337"
+	width="440" 
+	height="150" 
+	alt="ServerStats bot on discord.boats">
+</a>
+
+<br>
+
+<br>
+
+<a href="https://divinediscordbots.com/bot/458276816071950337" >
+   <img src="https://divinediscordbots.com/api/widget/458276816071950337.svg"
+	width="440" 
+	height="150" 
+	alt="ServerStats bot on divinediscordbots.com">
+</a>
 <a href="https://divinediscordbots.com/bots/458276816071950337">
   <img src="https://divinediscordbots.com/api/widget/458276816071950337.svg"
        width="440" 
        height="150"
        alt="ServerStats stats on divinediscordbots.com">
 </a>
+<br>
+<center>
 <a href="https://discordbotlist.com/bots/458276816071950337">
     <img src="https://discordbotlist.com/bots/458276816071950337/widget"
 	width="400" 
 	height="150" 
 	alt="ServerStats bot on discordbotlist.org">
 </a>
+</center>
