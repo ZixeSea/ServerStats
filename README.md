@@ -63,13 +63,13 @@ The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intelle
 
 <a href="https://botsfordiscord.com/bots/458276816071950337" >
    <img src="https://botsfordiscord.com/api/bot/458276816071950337/widget"
-	width="440" 
+	width="400" 
 	height="150" 
 	alt="ServerStats bot on botsfordiscord.com">
 </a>
 <a href="https://discord.boats/bot/458276816071950337" >
    <img src="https://discord.boats/api/widget/458276816071950337"
-	width="440" 
+	width="400" 
 	height="150" 
 	alt="ServerStats bot on discord.boats">
 </a>
