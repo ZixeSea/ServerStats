@@ -1,4 +1,4 @@
-# How to setup ServerStats V3
+# How to setup ServerStats
 Here is a step by step instructions, if you need more help after doing the steps you can join [**my discord server**](https://discordapp.com/invite/bZt8WkS).
 Make sure that the bot has **Manage Roles, Manage Channels, Read Text Channels & See Voice Channels and Connect permissions**, but if you didn't change the invite link or settings on that page I will all be good.
 
@@ -19,24 +19,16 @@ After you have added the bot you need to set it up.
 
 ![image](https://cdn.discordapp.com/attachments/527152500139229204/544607298266464286/Naamloos.png)
 
-* Step 1: Type in the chat: **s/setup** (after the command you will get a message if there is a error or if the bot is done).
+* Step 1: Type in the chat: **s/setup** or **@mention setup** (after the command you will get a message if there is a error or if the bot is done).
 
 # How to customize the counters
-**Custom the counter text:**
+## Custom the counter text:
+You can change the counter text like normal just right click on the channel and click Edit Channel, keep in mind that there must be a number in the name (only the first number in the name will change).
 
-You can just rename the channels the normal way (keep in mind that the number will be updated).
-So if you change your channel name to:
-- This are my members 0 = This are my members 5
-- I have 100 bro = I have 5 bro
-Don't set more than one number because the result will be something like this (4 of my 30 friends = 5 of my 5 friends)
+## Disable or enable a counter:
 
-**(The server has 5 members in this exemple)**
+You can disable counters by just deleting the counter or use the **s/counter &#60;counter&#62; off** command, you can get them back by using **s/remake** or **s/counter &#60;counter&#62; on**
 
-**Disable a counter:**
+## Change to text channels:
 
-You can also disable a counter if you don't want one of them, just delete the channel you don't want.
-You can always get the channel back by using **s/remake** this will reset all the channel.
-
-**Change to text channels**
-
-You can also change the counter to a text channel (default is voice) just use this command **s/channel <counter> <ID/mention>**, keep in mind that there must be a number in the channel name.
+You can also change the counter to a text channel (default is voice) just use this command **s/channel &#60;counter&#62; &#60;ID/mention&#62;**, keep in mind that there must be a number in the channel name.

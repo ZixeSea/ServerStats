@@ -14,19 +14,20 @@ Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FRE
 
 # Bot Features
 
-* Fancy member counter!
+The bot can display the following counters: **All Members**, **Members**, **Bots**, **Channels**, **Roles**, **Online**, **Offline** 
+
+* Fancy counter!
 * Easy to setup
 * Automatically updating counters
 * Custom text
-     * You can change the display text from **All members, members and bots**
 * Can show server and member info
 * **24/7** Uptime
-* Firestore database
+* MongoDB database
 
 ## Importent
 
 * **ServerStats requires some permissions**, If you don't give the bot permissions he won't work.
-* The bot is **100% safe and free** and he is already on more then **1750 different** servers.
+* The bot is **100% safe and free** and he is already on more then **2950 different** servers.
 * This bot is accepted on 8 bot list websites: [**discordbots.org**](https://discordbots.org/bot/458276816071950337), [**bots.ondiscord.xyz**](https://bots.ondiscord.xyz/bots/458276816071950337), [**botlist.space**](https://botlist.space/bot/458276816071950337), [**botsfordiscord.com**](https://botsfordiscord.com/bot/458276816071950337), [**discord.boats**](https://discord.boats/bot/458276816071950337), [**discordbotlist.com**](https://discordbotlist.com/bots/458276816071950337), [**discordsbestbots.xyz**](https://discordsbestbots.xyz/bots/458276816071950337), [**divinediscordbots.com**](https://divinediscordbots.com/bot/458276816071950337)
 
 ## How is it build?
@@ -40,9 +41,9 @@ This function is based on the .setName function in discord.js [Click here for th
 
 ![Image](https://cdn.discordapp.com/attachments/465201693538254848/522082030029242374/setName.png)
 
-## Saved data (FireStore)
+## Saved data (MongoDB)
 
-Of courese the bot needs the save some data and the only data the bot needs is 3 channel IDs.
+Of courese the bot needs the save some data and the bot only save data he realy needs.
 The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intellectual-property-law-in-the-netherlands/are-you-ready-for-the-new-general-data-protection-regulation-avg/) in mind, that means that I only save data if i need to and won't save personal data.
 
 ## Discord bot list sites
