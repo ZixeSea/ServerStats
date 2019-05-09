@@ -14,7 +14,7 @@ Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FRE
 
 # Bot Features
 
-The bot can display the following counters: **All Members**, **Members**, **Bots**, **Channels**, **Roles**, **Online**, **Offline** 
+The bot can display the following counters: **All Members**, **Members**, **Bots**, **Channels**, **Roles**, **Online**, **Offline** and **Role** 
 
 * Fancy counter!
 * Easy to setup
@@ -27,7 +27,7 @@ The bot can display the following counters: **All Members**, **Members**, **Bots
 ## Importent
 
 * **ServerStats requires some permissions**, If you don't give the bot permissions he won't work.
-* The bot is **100% safe and free** and he is already on more then **2950 different** servers.
+* The bot is **100% safe and free** and he is already on more then **3350 different** servers.
 * This bot is accepted on 8 bot list websites: [**discordbots.org**](https://discordbots.org/bot/458276816071950337), [**bots.ondiscord.xyz**](https://bots.ondiscord.xyz/bots/458276816071950337), [**botlist.space**](https://botlist.space/bot/458276816071950337), [**botsfordiscord.com**](https://botsfordiscord.com/bot/458276816071950337), [**discord.boats**](https://discord.boats/bot/458276816071950337), [**discordbotlist.com**](https://discordbotlist.com/bots/458276816071950337), [**discordsbestbots.xyz**](https://discordsbestbots.xyz/bots/458276816071950337), [**divinediscordbots.com**](https://divinediscordbots.com/bot/458276816071950337)
 
 ## How is it build?
