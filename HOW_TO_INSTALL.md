@@ -2,6 +2,8 @@
 Here is a step by step instructions, if you need more help after doing the steps you can join [**my discord server**](https://discordapp.com/invite/bZt8WkS).
 Make sure that the bot has **Manage Roles, Manage Channels, Read Text Channels & See Voice Channels and Connect permissions**, but if you didn't change the invite link or settings on that page I will all be good.
 
+**Important** You can check if the bot has the right permissions by running the command `s/check`.
+
 **[You can also watch a instruction video here.](https://vimeo.com/316592316/b7bd1ea09b)**
 
 # Step 1 (Adding the bot)
