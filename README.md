@@ -14,7 +14,7 @@ Discord bot that shows your members and bot in a fancy way **[ AND IT'S 100% FRE
 
 # Bot Features
 
-The bot can display the following counters: **All Members**, **Members**, **Bots**, **Channels**, **Roles**, **Online**, **Offline** and **Role**, and it also has a log channel for people how joins or leaves.
+The bot can display the following counters: **All Members**, **Members**, **Bots**, **Channels**, **Categories**, **Voice**, **Text**, **Roles**, **Online**, **Offline** and **Role**, and it also has a log channel for people how joins or leaves.
 
 * Fancy counter!
 * Easy to setup
