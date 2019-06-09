@@ -29,8 +29,8 @@ You can change the counter text like normal just right click on the channel and 
 
 ## Disable or enable a counter:
 
-You can disable counters by just deleting the counter or use the **s/counter &#60;counter&#62; off** command, you can get them back by using **s/remake** or **s/counter &#60;counter&#62; on** (you can see a full list of all the counter with this command `s/counter`)
+You can disable counters by just **deleting the counter** or use the **s/counter &#60;counter&#62; off** command, you can get them back by using **s/remake** or **s/counter &#60;counter&#62; on** (you can see a full list of all the counter with this command `s/counter`)
 
 ## Change to text channels:
 
-You can also change the counter to a text channel (default is voice) just use this command **s/channel &#60;counter&#62; &#60;ID/#mention&#62;**, keep in mind that there must be a number in the channel name (it you can to change a role counter you need to do this `s/counter role &#60;ID/#mention&#62; &#60;number&#62;`).
+You can also change the counter to a text channel (default is voice) just use this command **s/channel &#60;counter&#62; &#60;ID/#mention&#62;**, keep in mind that there must be a number in the channel name (it you can to change a role counter you need to do this `s/counter role <ID/#mention> <number>`).
