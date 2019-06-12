@@ -49,14 +49,14 @@ The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intelle
 <center>
 <a href="https://discordbots.org/bot/458276816071950337" >
   <img src="https://discordbots.org/api/widget/458276816071950337.svg"
-       	width="440" 
-	height="150" 
+       	width="430" 
+	height="190" 
        	alt="ServerStats bot on discordbots.org">
 </a>
 <a href="https://bots.ondiscord.xyz/bots/458276816071950337">
    <img src="https://bots.ondiscord.xyz/bots/458276816071950337/embed"
 	width="420" 
-	height="150" 
+	height="190" 
 	alt="ServerStats bot on bots.ondiscord.xyz">
 </a>
 
@@ -65,13 +65,13 @@ The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intelle
 <a href="https://botsfordiscord.com/bots/458276816071950337" >
    <img src="https://botsfordiscord.com/api/bot/458276816071950337/widget"
 	width="420" 
-	height="150" 
+	height="190" 
 	alt="ServerStats bot on botsfordiscord.com">
 </a>
 <a href="https://discord.boats/bot/458276816071950337" >
    <img src="https://discord.boats/api/widget/458276816071950337"
 	width="420" 
-	height="150" 
+	height="190" 
 	alt="ServerStats bot on discord.boats">
 </a>
 
@@ -80,13 +80,13 @@ The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intelle
 <a href="https://divinediscordbots.com/bot/458276816071950337" >
    <img src="https://divinediscordbots.com/api/widget/458276816071950337.svg"
 	width="440" 
-	height="150" 
+	height="190" 
 	alt="ServerStats bot on divinediscordbots.com">
 </a>
 <a href="https://discordbotlist.com/bots/458276816071950337">
     <img src="https://discordbotlist.com/bots/458276816071950337/widget"
 	width="400" 
-	height="150" 
+	height="190" 
 	alt="ServerStats bot on discordbotlist.org">
 </a>
 </center>
