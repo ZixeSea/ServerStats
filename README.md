@@ -9,9 +9,6 @@ A Discord bot that shows your members and bot in a fancy way.
 
 [Join our Discord server to get support](https://discordapp.com/invite/bZt8WkS)
 
-[Please consider voting for our bot](https://discordbots.org/bot/458276816071950337/vote)
-
-
 # Bot Features
 
 The bot can display the following counters: **All Members**, **Members**, **Bots**, **Channels**, **Categories**, **Voice**, **Text**, **Roles**, **Online**, **Offline**, **Role** and **Minecraft**, and it also has a **log channel** for people how joins or leaves.
