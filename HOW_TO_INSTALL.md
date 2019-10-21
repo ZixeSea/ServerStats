@@ -7,7 +7,7 @@ Make sure that the bot has **Manage Roles, Manage Channels, Read Text Channels &
 **[You can also watch a instruction video here.](https://vimeo.com/316592316/b7bd1ea09b)**
 
 # Step 1 (Adding the bot)
-The first thing you have to do is add the bot to your server, use [**this link**](https://discordapp.com/api/oauth2/authorize?client_id=458276816071950337&permissions=269503504&scope=bot) to add the bot. (You need to be login with Discord on your browser).
+The first thing you have to do is add the bot to your server, use [**this link**](https://discordapp.com/oauth2/authorize?client_id=458276816071950337&permissions=269577236&scope=bot) to add the bot. (You need to be login with Discord on your browser).
 
 ![image](https://cdn.discordapp.com/attachments/527152500139229204/527152574608965642/invite_steps.png)
 
