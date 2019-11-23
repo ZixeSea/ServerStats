@@ -7,7 +7,7 @@ A Discord bot that shows your members and bot in a fancy way.
 
 ![image](https://cdn.discordapp.com/attachments/465201693538254848/522071468138299393/banner.png)
 
-[Join our Discord server to get support](https://discordapp.com/invite/bZt8WkS)
+[Join our Discord server to get support](https://discordapp.com/invite/STZamSj)
 
 # Bot Features
 
