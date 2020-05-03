@@ -25,12 +25,12 @@ The bot can display the following counters: **All members**, **Members**, **Bots
 ## Important
 
 * **ServerStats requires some permissions**, If you don't give the bot permissions he won't work (you can check it by using `s/check`).
-* The bot is **100% safe** and he is already on more then **60000+ different** servers.
-* This bot is accepted on 16 and even verified on some bot list websites, here are some of the bigger ones: [**top.gg**](https://top.gg/bot/458276816071950337), [**discord.bots.gg**](https://discord.bots.gg/bots/458276816071950337), [**discordbotlist.com**](https://discordbotlist.com/bots/458276816071950337), [**divinediscordbots.com**](https://divinediscordbots.com/bot/458276816071950337), [**botsfordiscord.com**](https://botsfordiscord.com/bot/458276816071950337), [**discord.boats**](https://discord.boats/bot/458276816071950337). [**botlist.space**](https://botlist.space/bot/458276816071950337), [**bots.ondiscord.xyz**](https://bots.ondiscord.xyz/bots/458276816071950337).
+* The bot is **100% safe** and he is already on more then **+200k different** servers.
+* This bot is accepted on 16 and even verified on some bot list websites, here are some of the bigger ones: [**top.gg**](https://top.gg/bot/458276816071950337), [**discord.bots.gg**](https://discord.bots.gg/bots/458276816071950337), [**discordbotlist.com**](https://discordbotlist.com/bots/458276816071950337), [**botsfordiscord.com**](https://botsfordiscord.com/bot/458276816071950337), [**discord.boats**](https://discord.boats/bot/458276816071950337). [**botlist.space**](https://botlist.space/bot/458276816071950337), [**bots.ondiscord.xyz**](https://bots.ondiscord.xyz/bots/458276816071950337).
 
 ## How is it build?
 
-ServerStats is built on node.js using Visual Studio Code. I'm using the NPM module [Eris V 0.11.0 (modified by me)](https://abal.moe/Eris/docs/getting-started), the bot is also using some other module like: Eris-Sharder: V 1.8.4, Axios V 0.19.0 and Mongoose V 5.7.5.
+ServerStats is built on node.js using Visual Studio Code. The main module that I used are [Eris V 0.12.0 (modified by me)](https://github.com/ZixeSea/eris) and [Eris-Sharder: V 1.9.0 (modified by me)](https://github.com/ZixeSea/eris-sharder), the bot is also using some other module like: Axios V 0.19.2, Mongoose V 5.9.4 and Express V 4.17.1.
 
 ## Main function
 
@@ -73,17 +73,4 @@ The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intelle
 </a>
 
 <br>
-
-<a href="https://divinediscordbots.com/bot/458276816071950337" >
-   <img src="https://divinediscordbots.com/api/widget/458276816071950337.svg"
-	width="440" 
-	height="190" 
-	alt="ServerStats bot on divinediscordbots.com">
-</a>
-<a href="https://discordbotlist.com/bots/458276816071950337">
-    <img src="https://discordbotlist.com/bots/458276816071950337/widget"
-	width="400" 
-	height="190" 
-	alt="ServerStats bot on discordbotlist.org">
-</a>
 </center>
