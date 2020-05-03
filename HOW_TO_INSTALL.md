@@ -21,7 +21,7 @@ After you have added the bot you need to set it up.
 
 ![image](https://cdn.discordapp.com/attachments/527152500139229204/544607298266464286/Naamloos.png)
 
-* Step 1: Type in the chat: **s/setup** or **@ServerStats setup** (after the command you will get a message if there is a error or if the bot is done).
+* Step 1: Type in the chat: **s/setup** or **@ServerStats setup** and then the channel type you want (**voice** or **text**) (after the command you will get a message if there is a error or if the bot is done).
 
 # How to customize the counters
 ## Custom the counter text:
@@ -29,8 +29,8 @@ You can change the counter text like normal just right click on the channel and 
 
 ## Disable or enable a counter:
 
-You can disable counters by just **deleting the counter** or use the **s/counter &#60;counter&#62; off** command, you can get them back by using **s/reset yes** or **s/counter &#60;counter&#62; on** (you can see a full list of all the counter with this command `s/counter`)
+You can disable counters by just **deleting the counter** or use the **s/counter delete** command, you can get them back by using **s/reset** or **s/counter create** (you can see a full list of all the counter with this command `s/counter`)
 
 ## Change to text channels:
 
-You can also change the counter to a text channel (default is voice) just use this command **s/channel &#60;counter&#62; &#60;ID/#mention&#62;**, keep in mind that there must be a number in the channel name (it you can to change a role counter you need to do this `s/counter role <ID/#mention> <number>`).
+You can also change the counter to a text channel (default is voice) just use this command **s/channel change**, keep in mind that there must be a number in the channel name.
