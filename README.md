@@ -1,69 +1,82 @@
-# ServerStats
-A Discord bot that shows your members and bot in a fancy way.
+# ServerStats Bot
+This bot adds a unique way to show off your member counters, server stats, goals and welcomer messages in your server (fully customizable).
 
-[CLICK HERE TO ADD THE BOT TO YOUR SERVER](https://discordapp.com/oauth2/authorize?client_id=458276816071950337&permissions=1133584&scope=bot)
+![image](https://cdn.discordapp.com/attachments/709359536258940950/709359618303983697/Naamloos.png)
 
-[CLICK HERE TO WATCH THE INSTRUCTIONS VIDEO](https://vimeo.com/316592316/b7bd1ea09b)
+**[ [BOT INVITE LINK](https://discordapp.com/oauth2/authorize?client_id=458276816071950337&permissions=1133584&scope=bot) | [SUPPORT SERVER](https://discordapp.com/invite/vE8qKNV) | [INSTRUCTIONS VIDEO](https://vimeo.com/316592316/b7bd1ea09b) ]**
 
-![image](https://cdn.discordapp.com/attachments/465201693538254848/522071468138299393/banner.png)
+---
 
-[Join our Discord server to get support](https://discordapp.com/invite/STZamSj)
+## Bot Features
+* Fancy and unique counters!
+* Easy to setup, disable and customize.
+* Automatically updating counters **(with 10 min delay)**.
+* Can also show additional info.
+* Really good uptime and support.
+* Bot also has welcomer and goal support.
 
-# Bot Features
+### Bot counters
+#### Main bot [7]:
+* **All members**
+* **Members**
+* **Bots**
+* **Channels**
+* **Roles**
+* **Emojis**
+* **Boosts**
 
-The bot can display the following counters: **All members**, **Members**, **Bots**, **Channels**, **Categories**, **Voice**, **Text**, **Roles**, **Online**, **Offline**, **Role**, **bans**, **connected**, **status**, **playing** and **Minecraft**, and it also has a **welcome channel** for people how joins, leaves or getting banned.
+#### Premium bot [20]:
+The premium bot contains all the counters mentioned about and more, here is a full list: **all**, **members**, **bots**, **channels**, **categories**, **voice**, **text**, **roles**, **role**, **emojis**, **static**, **animated**, **boosts**, **tier**, **bans**, **connected**, **online**, **offline**, **status** and **playing**.
 
-* Fancy counter!
-* Easy to setup
-* Automatically updating counters
-* Highly customizable
-* Easy to disable counters
-* Can show server, channel, role and member info
-* **24/7** Uptime
-* MongoDB database
+#### Additional options:
+Outside all the counters the bot also has a options to create a **welcome channel** and **goal counter and channel**, the bot also contains other commands that show you info about the server, channels, roles and users (inside your server only).
+
+---
 
 ## Important
+### Current bots
+* **ServerStats#0197** (458276816071950337)
+* **ServerStatsBeta#3789** (466612542832377877)
+* **ServerStatsPremium#3256** (697173663048269874)
+* **ServerStatsAlpha#6502** (619868280596856842)
 
-* **ServerStats requires some permissions**, If you don't give the bot permissions he won't work (you can check it by using `s/check`).
-* The bot is **100% safe** and he is already on more then **+200k different** servers.
-* This bot is accepted on 16 and even verified on some bot list websites, here are some of the bigger ones: [**top.gg**](https://top.gg/bot/458276816071950337), [**discord.bots.gg**](https://discord.bots.gg/bots/458276816071950337), [**discordbotlist.com**](https://discordbotlist.com/bots/458276816071950337), [**botsfordiscord.com**](https://botsfordiscord.com/bot/458276816071950337), [**discord.boats**](https://discord.boats/bot/458276816071950337). [**botlist.space**](https://botlist.space/bot/458276816071950337), [**bots.ondiscord.xyz**](https://bots.ondiscord.xyz/bots/458276816071950337).
+> Here is a list of bots that are related to this project (any other bot is fake or a scam), always make sure you use an invite link from a trusted source.
+
+### Additional info
+* ServerStats is made with the idea to make it free so you will see a lot of thing that are free in this bot put pay in other comparable bots (like changing the counter text).
+* **ServerStats requires some permissions**, If you don't give the bot the right permissions he won't work (you can check it by using `s/check`).
+* ServerStats is trusted by more then **+250k different** servers.
+* ServerStats is also accepted on multiple bot list websites, here are some examples: **[top.gg](https://top.gg/bot/458276816071950337)**, **[discord.bots.gg](https://discord.bots.gg/bots/458276816071950337)**, **[discordbotlist.com](https://discordbotlist.com/bots/458276816071950337)**, **[botsfordiscord.com](https://botsfordiscord.com/bot/458276816071950337)**, **[discord.boats](https://discord.boats/bot/458276816071950337)**, **[botlist.space](https://botlist.space/bot/458276816071950337)**, **[bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/458276816071950337)**.
+
+>***NOTE:*** Keep in mind that bots **NEVER** need administrator permissions, we always make sure that ServerStats only ask for the permissions that are needed to function correctly.
+
+---
 
 ## How is it build?
+ServerStats is built using JavaScript (Node.JS). The main module that the bot uses are [Eris V 0.12.0 (modified by ZixeSea)](https://github.com/ZixeSea/eris) and [Eris-Sharder: V 1.9.0 (modified by ZixeSea)](https://github.com/ZixeSea/eris-sharder), the bot is also using some other module like: Axios V 0.19.2, Mongoose V 5.9.4 and Express V 4.17.1.
 
-ServerStats is built on node.js using Visual Studio Code. The main module that I used are [Eris V 0.12.0 (modified by me)](https://github.com/ZixeSea/eris) and [Eris-Sharder: V 1.9.0 (modified by me)](https://github.com/ZixeSea/eris-sharder), the bot is also using some other module like: Axios V 0.19.2, Mongoose V 5.9.4 and Express V 4.17.1.
+At the time the bot itself and all code related to it is closed source, this means you can't access it in any way.
+The reason for this is to make it difficult if not impossible to make clones/copies of the bot or code (copies could be used in malicious ways).
 
-## Main function
+---
 
-The main function in my bot is the name changer for the channels, with this function the bot can display a lot of server-related information like: user amount, channel amount or even online members.
-This function is based on the .edit function in Eris [Click here for the documentation](https://abal.moe/Eris/docs/VoiceChannel#function-edit).
+## Database and data (MongoDB)
+Of courese the bot needs the save some data and the bot only save data he really needs (the exist out of server and channel ids).
+You can also see all that that has been save about your server by using `s/data`, this sends an exect export of your servers collection of data.
 
-## Saved data (MongoDB)
+You can also easily delete the data by kicking or banning the bot or running the command `s/reset` (this means that after this you can't get your data back even if you kick the bot by accident).
 
-Of courese the bot needs the save some data and the bot only save data he really needs.
-The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intellectual-property-law-in-the-netherlands/are-you-ready-for-the-new-general-data-protection-regulation-avg/) in mind so I don't save any personal data.
+Also the database is hosted locally and there aren't any ways to access them from outside the host server (and only ZixeSea can access the server).
+
+---
 
 ## Discord bot list sites
 <center>
 <a href="https://discordbots.org/bot/458276816071950337" >
   <img src="https://discordbots.org/api/widget/458276816071950337.svg"
-       	width="430" 
+       	width="420" 
 	height="190" 
        	alt="ServerStats bot on discordbots.org">
-</a>
-<a href="https://bots.ondiscord.xyz/bots/458276816071950337">
-   <img src="https://bots.ondiscord.xyz/bots/458276816071950337/embed"
-	width="420" 
-	height="190" 
-	alt="ServerStats bot on bots.ondiscord.xyz">
-</a>
-
-<br>
-
-<a href="https://botsfordiscord.com/bots/458276816071950337" >
-   <img src="https://botsfordiscord.com/api/bot/458276816071950337/widget"
-	width="420" 
-	height="190" 
-	alt="ServerStats bot on botsfordiscord.com">
 </a>
 <a href="https://discord.boats/bot/458276816071950337" >
    <img src="https://discord.boats/api/widget/458276816071950337"
@@ -73,4 +86,19 @@ The bot is made with the [**AVG law**](https://www.amsadvocaten.com/blog/intelle
 </a>
 
 <br>
+
+<a href="https://bots.ondiscord.xyz/bots/458276816071950337">
+   <img src="https://bots.ondiscord.xyz/bots/458276816071950337/embed"
+	width="420" 
+	height="190" 
+	alt="ServerStats bot on bots.ondiscord.xyz">
+</a>
+<a href="https://botsfordiscord.com/bots/458276816071950337" >
+   <img src="https://botsfordiscord.com/api/bot/458276816071950337/widget"
+	width="420" 
+	height="190" 
+	alt="ServerStats bot on botsfordiscord.com">
+</a>
 </center>
+
+---
