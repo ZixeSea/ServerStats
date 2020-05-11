@@ -40,7 +40,7 @@ Outside all the counters the bot also has a options to create a **welcome channe
 * **ServerStatsPremium#3256** (697173663048269874)
 * **ServerStatsAlpha#6502** (619868280596856842)
 
-> Here is a list of bots that are related to this project (any other bot is fake or a scam), always make sure you use an invite link from a trusted source.
+>***NOTE:*** Here is a list of bots that are related to this project (any other bot is fake or a scam), always make sure you use an invite link from a trusted source.
 
 ### Additional info
 * ServerStats is made with the idea to make it free so you will see a lot of thing that are free in this bot put pay in other comparable bots (like changing the counter text).
