@@ -16,20 +16,27 @@ This bot adds a unique way to show off your member counters, server stats, goals
 * Bot also has welcomer and goal support.
 
 ### Bot counters
-#### Main bot [7]:
-* **All members**
-* **Members**
-* **Bots**
-* **Channels**
-* **Roles**
-* **Emojis**
-* **Boosts**
+#### Main bot [14]:
+The main bot contains a good set of counter that sends a nice base (you can even find some counters here that most other counter ask money for), here is a full list: **all**, **members**, **bots**, **channels**, **categories**, **voice**, **text**, **roles**, **emojis**, **static**, **animated**, **boosts**, **tier** and **bans**.
 
 #### Premium bot [20]:
 The premium bot contains all the counters mentioned about and more, here is a full list: **all**, **members**, **bots**, **channels**, **categories**, **voice**, **text**, **roles**, **role**, **emojis**, **static**, **animated**, **boosts**, **tier**, **bans**, **connected**, **online**, **offline**, **status** and **playing**.
 
 #### Additional options:
 Outside all the counters the bot also has a options to create a **welcome channel** and **goal counter and channel**, the bot also contains other commands that show you info about the server, channels, roles and users (inside your server only).
+
+### Bot permissions
+#### Sending messages [4]:
+* **Read messages**
+* **Send messages**
+* **Enbed links**
+* **Read message history**
+
+#### Creating and updating counters [2]:
+* **Manage channels**
+* **Connect**
+
+>***NOTE:*** If the bot doesn't work, doesn't responds or doesn't show up on the right side (in the members list) then 90% of the time it has something to do with permissions, always check permissions in the server settings and chennal you want to use it in.
 
 ---
 
