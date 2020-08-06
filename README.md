@@ -52,15 +52,15 @@ Outside all the counters the bot also has a options to create a **welcome channe
 ### Additional info
 * ServerStats is made with the idea to make it free so you will see a lot of thing that are free in this bot put pay in other comparable bots (like changing the counter text).
 * **ServerStats requires some permissions**, If you don't give the bot the right permissions he won't work (you can check it by using `s/check`).
-* ServerStats is trusted by more then **+250k different** servers.
-* ServerStats is also accepted on multiple bot list websites, here are some examples: **[top.gg](https://top.gg/bot/458276816071950337)**, **[discord.bots.gg](https://discord.bots.gg/bots/458276816071950337)**, **[discordbotlist.com](https://discordbotlist.com/bots/458276816071950337)**, **[botsfordiscord.com](https://botsfordiscord.com/bot/458276816071950337)**, **[discord.boats](https://discord.boats/bot/458276816071950337)**, **[botlist.space](https://botlist.space/bot/458276816071950337)**, **[bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/458276816071950337)**.
+* ServerStats is trusted by more then **+450k different** servers.
+* ServerStats is also accepted on multiple bot list websites, here are some examples: **[top.gg](https://top.gg/bot/458276816071950337)**, **[discord.bots.gg](https://discord.bots.gg/bots/458276816071950337)**, **[discord.boats](https://discord.boats/bot/458276816071950337)**, **[bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/458276816071950337)** and **[botsfordiscord.com](https://botsfordiscord.com/bot/458276816071950337)**.
 
 >***NOTE:*** Keep in mind that bots **NEVER** need administrator permissions, we always make sure that ServerStats only ask for the permissions that are needed to function correctly.
 
 ---
 
 ## How is it build?
-ServerStats is built using JavaScript (Node.JS). The main module that the bot uses are [Eris V 0.12.0 (modified by ZixeSea)](https://github.com/ZixeSea/eris) and [Eris-Sharder: V 1.9.0 (modified by ZixeSea)](https://github.com/ZixeSea/eris-sharder), the bot is also using some other module like: Axios V 0.19.2, Mongoose V 5.9.4 and Express V 4.17.1.
+ServerStats is built using JavaScript (Node.JS). The main module that the bot uses are [Eris V 0.13.3 (modified)](https://github.com/ZixeSea/eris) and [Eris-Sharder: V 1.10.0 (modified)](https://github.com/ZixeSea/eris-sharder), the bot is also using some other module like: Axios V 0.19.2, Mongoose V 5.9.20 and Express V 4.17.1.
 
 At the time the bot itself and all code related to it is closed source, this means you can't access it in any way.
 The reason for this is to make it difficult if not impossible to make clones/copies of the bot or code (copies could be used in malicious ways).
