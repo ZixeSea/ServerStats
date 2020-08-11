@@ -2,7 +2,7 @@
 ### Last updated: `August 9, 2020`
 #### Thank you for choosing to use my bot ServerStats (“we”, “our” and "us"). We think that privacy is one of the most important things, that's why will really commit in make our bot as transparent and privacy-friendly. We will **never** sell or share your data and we only collect data that is needed to make the bot work. If there are any terms in this privacy notice that you do not agree with, please discontinue the use of our bot and our services.
 
-#### This privacy notice applies to our bots (ServerStats#0197, ServerStatsBeta#3789, ServerStatsPremium#3256 and ServerStatsAlpha#6502) and our website (serverstatsbot.com). Our website does use Google Analytics, you can see there privacy [here](https://policies.google.com/technologies/partner-sites).
+#### This privacy notice applies to our bots (ServerStats#0197, ServerStatsBeta#3789, ServerStatsPremium#3256 and ServerStatsAlpha#6502) and our website (serverstatsbot.com). Our website does use Google Analytics, you can see there privacy policy [here](https://policies.google.com/technologies/partner-sites).
 
 ---
 
