@@ -9,9 +9,9 @@ Make sure that the bot has **Manage Channels, Read Text Channels & See Voice Cha
 ---
 
 # TABLE OF CONTENTS
-1. [STEP 1 (ADDING THE BOT)](#Step-1-(Adding-the-bot))
-2. [STEP 2 (START THE SETUP)](#Step-2-(Start-the-setup))
-3. [HOW TO CUSTOMIZE THE COUNTERS](#How-to-customize-the-counters)
+1. [STEP 1 (ADDING THE BOT)](#step-1-adding-the-bot)
+2. [STEP 2 (START THE SETUP)](#step-2-start-the-setup)
+3. [HOW TO CUSTOMIZE THE COUNTERS](#how-to-customize-the-counters)
 
 ---
 
