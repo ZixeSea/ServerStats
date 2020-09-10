@@ -8,6 +8,13 @@ Make sure that the bot has **Manage Channels, Read Text Channels & See Voice Cha
 
 ---
 
+# TABLE OF CONTENTS
+1. [STEP 1 (ADDING THE BOT)](#Step-1-(Adding-the-bot))
+2. [STEP 2 (START THE SETUP)](#Step-2-(Start-the-setup))
+3. [HOW TO CUSTOMIZE THE COUNTERS](#How-to-customize-the-counters)
+
+---
+
 # Step 1 (Adding the bot)
 The first thing you have to do is add the bot to your server, use **[this link](https://discordapp.com/oauth2/authorize?client_id=458276816071950337&permissions=1133584&scope=bot)** to add the bot. (You need to be login with Discord on your browser).
 
