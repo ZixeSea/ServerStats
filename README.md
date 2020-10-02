@@ -17,13 +17,13 @@ This bot adds a unique way to show off your member counters, server stats, goals
 
 ### Bot counters
 #### Main bot [15]:
-The main bot contains a good set of counter that sends a nice base (you can even find some counters here that most other counter ask money for), here is a full list: **all**, **members**, **bots**, **channels**, **text**, **voice**, **categories**, **announcement**, **roles**, **role**, **emojis**, **static**, **animated**, **boosts** and **tier**.
+The main bot contains a good set of counters that set a nice base (you can even find some counters here that most other bots ask money for), here is a full list: **all**, **members**, **bots**, **channels**, **text**, **voice**, **categories**, **announcement**, **roles**, **role**, **emojis**, **static**, **animated**, **boosts** and **tier**.
 
 #### Premium bot [21]:
-The premium bot contains all the counters mentioned about and more, here is a full list: **all**, **members**, **bots**, **channels**, **text**, **voice**, **categories**, **announcement**, **roles**, **role**, **emojis**, **static**, **animated**, **boosts**, **tier**, **bans**, **connected**, **online**, **offline**, **status** and **streaming**.
+The premium bot contains all the counters mentioned above and more, here is a full list: **all**, **members**, **bots**, **channels**, **text**, **voice**, **categories**, **announcement**, **roles**, **role**, **emojis**, **static**, **animated**, **boosts**, **tier**, **bans**, **connected**, **online**, **offline**, **status** and **streaming**.
 
 #### Additional options:
-Outside all the counters the bot also has a options to create a **welcome channel** and **goal counter and channel**, the bot also contains other commands that show you info about the server, channels, roles and users (inside your server only).
+Outside all the counters the bot also has options to create a **welcome channel** and **goal counter and channel**, it also contains other commands that show you info about the server, channels, roles and users (inside your server only).
 
 ### Bot permissions
 #### Sending messages [3]:
@@ -35,7 +35,7 @@ Outside all the counters the bot also has a options to create a **welcome channe
 * **Manage channels**
 * **Connect**
 
->***NOTE:*** If the bot doesn't work, doesn't responds or doesn't show up on the right side (in the members list) then 90% of the time it has something to do with permissions, always check permissions in the server settings and chennal you want to use it in.
+>***NOTE:*** If the bot doesn't work, doesn't respond or doesn't show up on the right side (in the members list) then 90% of the time it has something to do with permissions. Always check permissions in the server settings and channel you want to use it in.
 
 ---
 
@@ -49,8 +49,8 @@ Outside all the counters the bot also has a options to create a **welcome channe
 >***NOTE:*** Here is a list of bots that are related to this project (any other bot is fake or a scam), always make sure you use an invite link from a trusted source.
 
 ### Additional info
-* ServerStats is made with the idea to make it free so you will see a lot of thing that are free in this bot put pay in other comparable bots (like changing the counter text).
-* **ServerStats requires some permissions**, If you don't give the bot the right permissions he won't work (you can check it by using `s/check`).
+* ServerStats is made with the idea to make it free, so you will see a lot of things that are free in this bot but paid in other comparable bots (like changing the counter text).
+* **ServerStats requires some permissions**, If you don't give the bot the right permissions it won't work (you can check it by using `s/check`).
 * ServerStats is trusted by more then **+600k different** servers.
 * ServerStats is also accepted on multiple bot list websites, here are some examples: **[top.gg](https://top.gg/bot/458276816071950337)**, **[discord.bots.gg](https://discord.bots.gg/bots/458276816071950337)**, **[discord.boats](https://discord.boats/bot/458276816071950337)**, **[bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/458276816071950337)** and **[botsfordiscord.com](https://botsfordiscord.com/bot/458276816071950337)**.
 
@@ -59,7 +59,7 @@ Outside all the counters the bot also has a options to create a **welcome channe
 ---
 
 ## How is it build?
-ServerStats is built using JavaScript (Node.JS). The main module that the bot uses are [Eris V 0.13.3 (modified)](https://github.com/ZixeSea/eris) and [Eris-Sharder: V 1.10.0 (modified)](https://github.com/ZixeSea/eris-sharder), the bot is also using some other module like: Axios V 0.20.0, Mongoose V 5.10.0 and Express V 4.17.1.
+ServerStats is built using JavaScript (Node.JS). The main modules that the bot uses are [Eris V 0.13.3 (modified)](https://github.com/ZixeSea/eris) and [Eris-Sharder: V 1.10.0 (modified)](https://github.com/ZixeSea/eris-sharder), the bot is also using some other modules like: Axios V 0.20.0, Mongoose V 5.10.0 and Express V 4.17.1.
 
 At the time the bot itself and all code related to it is closed source, this means you can't access it in any way.
 The reason for this is to make it difficult if not impossible to make clones/copies of the bot or code (copies could be used in malicious ways).
@@ -67,12 +67,12 @@ The reason for this is to make it difficult if not impossible to make clones/cop
 ---
 
 ## Database and data (MongoDB)
-Of courese the bot needs the save some data and the bot only save data he really needs (the exist out of server and channel ids).
-You can also see all that that has been save about your server by using `s/data`, this sends an exect export of your servers collection of data.
+Of course the bot needs the save some data but it only save data he really needs (this includes server and channel ids).
+You can also see all that has been saved about your server by using `s/data`, this sends an exact export of your servers collection of data.
 
 You can also easily delete the data by kicking or banning the bot or running the command `s/reset` (this means that after this you can't get your data back even if you kick the bot by accident).
 
-Only the devs can access the server where the database is running on so that means that only the devs can have full access tyo the complete database.
+Only the devs can access the server where the database is running on so that means that only the devs can have full access to the complete database.
 
 ---
 
