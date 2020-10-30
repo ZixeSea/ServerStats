@@ -3,7 +3,7 @@ This bot adds a unique way to show off your member counters, server stats, goals
 
 ![image](https://cdn.discordapp.com/attachments/709359536258940950/709359618303983697/Naamloos.png)
 
-**[ [BOT INVITE LINK](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1068048&scope=bot) | [SUPPORT SERVER](https://discordapp.com/invite/vE8qKNV) | [INSTRUCTIONS VIDEO](https://vimeo.com/316592316/b7bd1ea09b) | [WEBSITE](https://serverstatsbot.com) ]**
+**[ [BOT INVITE LINK](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1068048&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Fsetup&scope=bot) | [SUPPORT SERVER](https://discordapp.com/invite/vE8qKNV) | [INSTRUCTIONS VIDEO](https://vimeo.com/316592316/b7bd1ea09b) | [WEBSITE](https://serverstatsbot.com) ]**
 
 ---
 
