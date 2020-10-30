@@ -16,7 +16,7 @@ Make sure that the bot has **Manage Channels, Read Text Channels & See Voice Cha
 ---
 
 # Step 1 (Adding the bot)
-The first thing you have to do is add the bot to your server, use **[this link](https://discordapp.com/oauth2/authorize?client_id=458276816071950337&permissions=1133584&scope=bot)** to add the bot. (You need to be logged in to Discord in your browser).
+The first thing you have to do is add the bot to your server, use **[this link](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1068048&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Fsetup&scope=bot)** to add the bot. (You need to be logged in to Discord in your browser).
 
 ![image](https://cdn.discordapp.com/attachments/527152500139229204/527152574608965642/invite_steps.png)
 
