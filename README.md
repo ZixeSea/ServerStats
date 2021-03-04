@@ -59,7 +59,7 @@ Outside all the counters the bot also has options to create a **welcome channel*
 ---
 
 ## How is it build?
-ServerStats is built using JavaScript (Node.JS). The main modules that the bot uses are [Eris (modified)](https://github.com/ZixeSea/eris) and [Eris-Sharder (modified)](https://github.com/ZixeSea/eris-sharder), the bot is also using some other modules like: Axios and Mongoose.
+ServerStats is built using JavaScript (Node.JS). The main modules that the bot uses are Eris (modified) and Eris-Sharder (modified), the bot is also using some other modules like: Axios and Mongoose.
 
 At the time the bot itself and all code related to it is closed source, this means you can't access it in any way.
 The reason for this is to make it difficult if not impossible to make clones/copies of the bot or code (copies could be used in malicious ways).
