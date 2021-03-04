@@ -41,10 +41,10 @@ Outside all the counters the bot also has options to create a **welcome channel*
 
 ## Important
 ### Current bots
-* **ServerStats#0197** (458276816071950337)
-* **ServerStatsBeta#3789** (466612542832377877)
-* **ServerStatsPremium#3256** (697173663048269874)
-* **ServerStatsAlpha#6502** (619868280596856842)
+* **ServerStats#0197** ([458276816071950337](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1100816&scope=bot))
+* **ServerStatsBeta#3789** ([466612542832377877](https://discord.com/oauth2/authorize?client_id=466612542832377877&permissions=1100816&scope=bot))
+* **ServerStatsPremium#3256** ([697173663048269874](https://discord.com/oauth2/authorize?client_id=697173663048269874&permissions=1100828&scope=bot))
+* **ServerStatsAlpha#6502** ([619868280596856842](https://discord.com/oauth2/authorize?client_id=619868280596856842&permissions=1100828&scope=bot))
 
 >***NOTE:*** Here is a list of bots that are related to this project (any other bot is fake or a scam), always make sure you use an invite link from a trusted source.
 
