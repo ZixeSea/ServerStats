@@ -3,7 +3,7 @@ This bot adds a unique way to show off your member counters, server stats, goals
 
 ![image](https://cdn.discordapp.com/attachments/709359536258940950/709359618303983697/Naamloos.png)
 
-**[ [BOT INVITE LINK](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1068048&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Fsetup&scope=bot) | [SUPPORT SERVER](https://discordapp.com/invite/vE8qKNV) | [INSTRUCTIONS VIDEO](https://vimeo.com/316592316/b7bd1ea09b) | [WEBSITE](https://serverstatsbot.com) ]**
+**[ [BOT INVITE LINK](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1100816&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Fsetup&scope=bot) | [SUPPORT SERVER](https://discordapp.com/invite/vE8qKNV) | [INSTRUCTIONS VIDEO](https://vimeo.com/316592316/b7bd1ea09b) | [WEBSITE](https://serverstatsbot.com) ]**
 
 ---
 
@@ -26,40 +26,40 @@ The premium bot contains all the counters mentioned above and more, here is a fu
 Outside all the counters the bot also has options to create a **welcome channel** and **goal counter and channel**, it also contains other commands that show you info about the server, channels, roles and users (inside your server only).
 
 ### Bot permissions
-#### Sending messages [3]:
+#### Sending messages [4]:
 * **Read messages**
 * **Send messages**
 * **Enbed links**
+* **Attach Files**
 
-#### Creating and updating counters [2]:
+#### Creating and updating counters [3]:
 * **Manage channels**
+* **View Channel**
 * **Connect**
 
->***NOTE:*** If the bot doesn't work, doesn't respond or doesn't show up on the right side (in the members list) then 90% of the time it has something to do with permissions. Always check permissions in the server settings and channel you want to use it in.
+>***NOTE:*** If the bot doesn't work, doesn't respond or doesn't show up on the right side (in the members list) then 95% of the time it has something to do with permissions. Always check permissions in the server settings and channel you want to use it in.
 
 ---
 
 ## Important
 ### Current bots
-* **ServerStats#0197** ([458276816071950337](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1100816&scope=bot))
-* **ServerStatsBeta#3789** ([466612542832377877](https://discord.com/oauth2/authorize?client_id=466612542832377877&permissions=1100816&scope=bot))
-* **ServerStatsPremium#3256** ([697173663048269874](https://discord.com/oauth2/authorize?client_id=697173663048269874&permissions=1100828&scope=bot))
-* **ServerStatsAlpha#6502** ([619868280596856842](https://discord.com/oauth2/authorize?client_id=619868280596856842&permissions=1100828&scope=bot))
+* **ServerStats#0197** ([458276816071950337](https://discord.com/oauth2/authorize?client_id=458276816071950337&permissions=1100816&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Fsetup&scope=bot))
+* **ServerStatsBeta#3789** ([466612542832377877](https://discord.com/oauth2/authorize?client_id=466612542832377877&permissions=1100816&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Fsetup&scope=bot))
+* **ServerStatsPremium#3256** ([697173663048269874](https://discord.com/oauth2/authorize?client_id=697173663048269874&permissions=1100828&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Fsetup&scope=bot))
+* **ServerStatsAlpha#6502** ([619868280596856842](https://discord.com/oauth2/authorize?client_id=619868280596856842&permissions=1100828&response_type=code&redirect_uri=https%3A%2F%2Fserverstatsbot.com%2Fsetup&scope=bot))
 
 >***NOTE:*** Here is a list of bots that are related to this project (any other bot is fake or a scam), always make sure you use an invite link from a trusted source.
 
 ### Additional info
 * ServerStats is made with the idea to make it free, so you will see a lot of things that are free in this bot but paid in other comparable bots (like changing the counter text).
 * **ServerStats requires some permissions**, If you don't give the bot the right permissions it won't work (you can check it by using `s/check`).
-* ServerStats is trusted by more then **+600k different** servers.
+* ServerStats is trusted by more then **1 million different** servers.
 * ServerStats is also accepted on multiple bot list websites, here are some examples: **[top.gg](https://top.gg/bot/458276816071950337)**, **[discord.bots.gg](https://discord.bots.gg/bots/458276816071950337)**, **[discord.boats](https://discord.boats/bot/458276816071950337)**, **[bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/458276816071950337)** and **[botsfordiscord.com](https://botsfordiscord.com/bot/458276816071950337)**.
-
->***NOTE:*** Keep in mind that bots **NEVER** need administrator permissions, we always make sure that ServerStats only ask for the permissions that are needed to function correctly.
 
 ---
 
 ## How is it build?
-ServerStats is built using JavaScript (Node.JS). The main modules that the bot uses are [Eris V 0.13.3 (modified)](https://github.com/ZixeSea/eris) and [Eris-Sharder: V 1.10.0 (modified)](https://github.com/ZixeSea/eris-sharder), the bot is also using some other modules like: Axios V 0.20.0, Mongoose V 5.10.0 and Express V 4.17.1.
+ServerStats is built using JavaScript (Node.JS). The main modules that the bot uses are [Eris (modified)](https://github.com/ZixeSea/eris) and [Eris-Sharder (modified)](https://github.com/ZixeSea/eris-sharder), the bot is also using some other modules like: Axios and Mongoose.
 
 At the time the bot itself and all code related to it is closed source, this means you can't access it in any way.
 The reason for this is to make it difficult if not impossible to make clones/copies of the bot or code (copies could be used in malicious ways).
